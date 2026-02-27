@@ -76,9 +76,6 @@ This will re-parse all documents in `assignment_2_baseline_data/baseline_data/` 
 ├── test_set_day1.json              # Test queries (day 1)
 ├── test_set_day1.txt               # Raw text version of test set
 ├── system_outputs/                 # Saved system outputs for Canvas submission
-└── data/                           # data/, index/, and cached artifacts (chunks, faiss)
-	├── chunks_v2.jsonl
-	└── faiss_v2/index.faiss
 
 ```
 
