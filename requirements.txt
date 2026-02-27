@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+transformers
+sentence-transformers
+faiss-cpu
+rank-bm25
+nltk
+pdfplumber
+torch

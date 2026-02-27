@@ -1,0 +1,5 @@
+/src/__pycache__/
+.conda
+__pycache__
+/tmp_overleaf/
+/tools/
